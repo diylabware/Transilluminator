@@ -1,0 +1,15 @@
+Team 1 Team UDS
+The aim of the OPEN LABWARE workshop is to motivate researchers, academics and students in Africa universities to become more proactive in finding solutions to some of the problems faced in their institutions, especially the lack of laboratory equipment and instruments required to conduct high-quality research.
+
+Challenges: There were no serious challenges in the first day except that familiarizing ourselves with the terminologies and features of the Arduino to some extent was a bit challenging.   
+
+Lessons: A lot was learnt in Day 1 and we hope to continue the subsequent days. Some of the things learnt include but not limited to the following:
+We learnt that with OPEN LABWARE, one does not have to build an equipment from scratch but can use information already available in their repository.
+We were also introduced to Arduinos: A platform based on an easy-to-use hardware and software. It consists of a circuit board, which has a microcontroller that can be programmed and a ready-made software called Arduino IDE, which is used to write and upload the code to the board.
+There various type of Arduinos and among the Arduino IDE family, we have Nano, Uno and Mega. The choice of any of these Arduinos largely depend on the project you are building as some Arduinos are unable to take more signals compared to others. The cost involved may also determine the type of Arduino to use.
+We learnt the various features of the arduino: power USB, analog pins, digital pins, arduino reset.
+Some of the terminology learnt include: Jumper wire (male and female), LED, etc
+We learnt how to blink an LED using the push button as well as using the Arduino software to blink and control an LED.
+We learnt how to write basic code in the arduino IDE programme, verify the code and upload the sketch.  
+
+Projects Built:Blink an LED with a push button, blink two or more LEDs using the digital write codes.
