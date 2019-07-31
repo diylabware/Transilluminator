@@ -1,18 +1,21 @@
+Challenges: Coding has been a major challenge in day 2 and we hope to overcome this the coming days.
+
+Lessons learnt:
 Basic electronics
-
-
-ohms law resistors, capasitors: Reading a resistor
-sensors (stand alone and sensory array
+ohms law and its practical application, resistors, capasitors: Reading a resistor
+sensors (stand alone and sensory array)
 how to use a multimeter
-atuators and effectors
-microcontrollers
-SBC
-
-creating a github account and how to navigate
-key things in git hub: Readme, Contributions and Roadmap
+Atuators: These are responsible for moving or controlling a mechanism or system. E.g Servo motor
+Effectors: Any device that is able to cause changes to its environment 
+Microcontrollers:A computer present in a single integrated circuit which is dedicated to perform one task and execute one specific application. They contain;
+menory, more economical; operating at a low clock rate frequency and design for low power consumption; they vary in archetecture; and used in situations where limited computer function are needed.
+We again learnt about Single Board Computers
+Creating a github account and how to navigate it
+The key things in git hub include: Readme, Contributions and Roadmap
 issue:
 
+How to control multiple LED from an analog input (pontentiometer) into a digital read (output)
 
-how to control multiple LED from an analog input (pontentiometer)
+Soldering
 
 
