@@ -1,0 +1,7 @@
+Bulding of Transilluminator continues
+The first model we built was to be powered using a 9 V batterry. We needed to to change this so that the Transilluminator could be powered using 5 V or could be powered using a computer.
+We also needed to to increase the number of LEDs from 24 to 32 to give more illumination. This was successfully done by transferring the LEDs onto a bigger (21 x 9.8 cm) peff board.
+We also adjusted our 3D design to fit to our new peff board in ThinkerCAD.
+
+Challenges
+Limited number of Blue LEDs 
